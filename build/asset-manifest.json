@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6c980c6.css",
+    "main.js": "/static/js/main.fe5d5237.js",
+    "static/js/787.a156182f.chunk.js": "/static/js/787.a156182f.chunk.js",
+    "static/media/Exercise - Google Chrome 20-06-2023 19_31_19.png": "/static/media/Exercise - Google Chrome 20-06-2023 19_31_19.da25c1189fe2f4360625.png",
+    "static/media/sql.png": "/static/media/sql.e0d5487ac373b51e19df.png",
+    "static/media/Untitled - Google Chrome 21-06-2023 18_49_30.png": "/static/media/Untitled - Google Chrome 21-06-2023 18_49_30.f51b6020d5679c94fff5.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/ash-edmonds-0aWZdK8nK2I-unsplash.jpg": "/static/media/ash-edmonds-0aWZdK8nK2I-unsplash.1bf00bb9cd731d4c9e52.jpg",
+    "static/media/Exercise - Google Chrome 20-06-2023 19_52_28.png": "/static/media/Exercise - Google Chrome 20-06-2023 19_52_28.da43374f219fa713c913.png",
+    "static/media/Exercise - Google Chrome 20-06-2023 19_32_34.png": "/static/media/Exercise - Google Chrome 20-06-2023 19_32_34.b0aa25034c489e426adc.png",
+    "static/media/Project.js - toyesh_portfolio - Visual Studio Code 20-06-2023 22_12_19 (1).jpg": "/static/media/Project.js - toyesh_portfolio - Visual Studio Code 20-06-2023 22_12_19 (1).d0450550d7f5dcae4e2e.jpg",
+    "static/media/ml.png": "/static/media/ml.359245de5bedaaa247e1.png",
+    "static/media/C__React js files_toyesh_portfolio_src_assets_images 21-06-2023 23_41_34.png": "/static/media/C__React js files_toyesh_portfolio_src_assets_images 21-06-2023 23_41_34.435fa76b379b4a9a7699.png",
+    "static/media/crop.jpg": "/static/media/crop.28a201a4d00da213ef23.jpg",
+    "static/media/gfg.png": "/static/media/gfg.a061a96aa9514f5138d2.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "index.html": "/index.html",
+    "static/media/github-mark.svg": "/static/media/github-mark.d51061f81f79d24af2642ad7bf20ef62.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.b6c980c6.css.map": "/static/css/main.b6c980c6.css.map",
+    "main.fe5d5237.js.map": "/static/js/main.fe5d5237.js.map",
+    "787.a156182f.chunk.js.map": "/static/js/787.a156182f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c980c6.css",
+    "static/js/main.fe5d5237.js"
+  ]
+}
